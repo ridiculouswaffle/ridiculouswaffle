@@ -2,7 +2,7 @@
 
 # Welcome!
 
-Hello! I am a developer who writes CLI, web and mobile apps all day. I like programming, music and anime.
+Hello! I'm Dereck Smith Elijah, a developer who writes CLI, web and mobile apps all day. I like programming, music and anime.
 
 ## Programming Languages
 
@@ -14,6 +14,8 @@ Hello! I am a developer who writes CLI, web and mobile apps all day. I like prog
 - Java
 - Kotlin
 - Javascript
+- Typescript
+- PHP
 - Lua
 
 ## Frameworks I Know
@@ -28,7 +30,7 @@ Hello! I am a developer who writes CLI, web and mobile apps all day. I like prog
 ## Editors I Use
 
 - GNU Emacs (primary editor)
-- NeoVim
+- NeoVim (terminal editor)
 - IntelliJ Idea
 - Visual Studio Code
 
