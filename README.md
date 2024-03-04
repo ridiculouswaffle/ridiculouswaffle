@@ -1,3 +1,3 @@
-<img src="../images/some-chineese-angel-idk.jpg" width="100%" />
+<img src="https://raw.githubusercontent.com/ridiculouswaffle/ridiculouswaffle/main/images/some-chineese-angel-idk.png" width="100%" />
 
 # Welcome to my profile!
