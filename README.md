@@ -4,7 +4,7 @@
 
 Hello! I'm Dereck Smith Elijah, a developer who writes CLI, web and mobile apps all day. I like programming, music and anime.
 
-## Programming Languages
+## Programming Languages I know
 
 - Clojure
 - Emacs Lisp
@@ -17,6 +17,8 @@ Hello! I'm Dereck Smith Elijah, a developer who writes CLI, web and mobile apps 
 - Typescript
 - PHP
 - Lua
+- Swift
+- C#
 
 ## Frameworks I Know
 
