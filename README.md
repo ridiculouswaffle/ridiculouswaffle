@@ -14,7 +14,7 @@ Hello! I'm Dereck Smith Elijah, a developer who writes CLI, web and mobile apps 
 - Javascript
 - Typescript
 - PHP
-- Lua
+- Dart
 - Swift
 - C#
 
