@@ -36,4 +36,4 @@ Hello! I'm Dereck Smith Elijah, a developer who writes CLI, web and mobile apps 
 
 ## Additional Skills
 
-- I can write LaTeX (pronunced lay-tek) documents to make them into PDFs
+- I can write professional LaTeX (pronunced lay-tek) documents to make them into PDFs
