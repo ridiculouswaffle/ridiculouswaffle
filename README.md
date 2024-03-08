@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/ridiculouswaffle/ridiculouswaffle/main/images/some-chineese-angel-idk.png" width="100%" />
-
 # Welcome!
 
 Hello! I'm Dereck Smith Elijah, a developer who writes CLI, web and mobile apps all day. I like programming, music and anime.
